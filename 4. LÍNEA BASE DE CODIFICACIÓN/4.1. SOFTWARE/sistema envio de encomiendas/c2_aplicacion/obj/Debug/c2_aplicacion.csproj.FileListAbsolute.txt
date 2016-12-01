@@ -1,0 +1,63 @@
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c2_aplicacion.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c3_dominio.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\bin\Debug\c4_persistencia.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c2_aplicacion\obj\Debug\c2_aplicacion.pdb

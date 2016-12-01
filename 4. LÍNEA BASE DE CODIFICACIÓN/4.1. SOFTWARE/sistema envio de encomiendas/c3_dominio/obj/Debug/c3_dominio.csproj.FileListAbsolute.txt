@@ -1,0 +1,30 @@
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
+G:\UPN\2015-I\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\JOSEPH JACINTO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\correccions errores  para presentar en t2\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\CORRECCIONES\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\NARRO\Desktop\G3\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\bin\Debug\c3_dominio.pdb
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.csprojResolveAssemblyReference.cache
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.dll
+C:\Users\JOSEPH\Dropbox\G4\3.IMPLEMENTACION\3.3.Software\SISTEMA ENVIO DE ENCOMIENDAS\c3_dominio\obj\Debug\c3_dominio.pdb
